@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinis\\source\\repos\\buscaCep\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C591E-5554-4875-8F7D-3C505CD2C1E5}|buscaCep\\buscaCep.csproj|c:\\users\\vinis\\source\\repos\\buscacep\\buscacep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4C591E-5554-4875-8F7D-3C505CD2C1E5}|buscaCep\\buscaCep.csproj|solutionrelative:buscacep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C591E-5554-4875-8F7D-3C505CD2C1E5}|buscaCep\\buscaCep.csproj|c:\\users\\vinis\\source\\repos\\buscacep\\buscacep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CF4C591E-5554-4875-8F7D-3C505CD2C1E5}|buscaCep\\buscaCep.csproj|solutionrelative:buscacep\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4C591E-5554-4875-8F7D-3C505CD2C1E5}|buscaCep\\buscaCep.csproj|c:\\users\\vinis\\source\\repos\\buscacep\\buscacep\\buscacep.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF4C591E-5554-4875-8F7D-3C505CD2C1E5}|buscaCep\\buscaCep.csproj|solutionrelative:buscacep\\buscacep.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\vinis\\source\\repos\\buscaCep\\buscaCep\\Form1.cs",
+              "RelativeDocumentMoniker": "buscaCep\\Form1.cs",
+              "ToolTip": "C:\\Users\\vinis\\source\\repos\\buscaCep\\buscaCep\\Form1.cs",
+              "RelativeToolTip": "buscaCep\\Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:46:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "buscaCep.csproj",
+              "DocumentMoniker": "C:\\Users\\vinis\\source\\repos\\buscaCep\\buscaCep\\buscaCep.csproj",
+              "RelativeDocumentMoniker": "buscaCep\\buscaCep.csproj",
+              "ToolTip": "C:\\Users\\vinis\\source\\repos\\buscaCep\\buscaCep\\buscaCep.csproj",
+              "RelativeToolTip": "buscaCep\\buscaCep.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T21:38:11.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\vinis\\source\\repos\\buscaCep\\buscaCep\\Form1.cs",
+              "RelativeDocumentMoniker": "buscaCep\\Form1.cs",
+              "ToolTip": "C:\\Users\\vinis\\source\\repos\\buscaCep\\buscaCep\\Form1.cs [Projeto]",
+              "RelativeToolTip": "buscaCep\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:34:22.294Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
